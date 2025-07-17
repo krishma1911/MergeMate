@@ -14,7 +14,7 @@
 - ✅ Custom name for the output PDF
 - ✅ Simple and minimalistic design
 
- ###📸ScreenShots 
+## 📸 ScreenShots 
  ![MergeMate SplashScreen](Splash.jpg)
   ![MergeMate Main Screen](Main.jpg)
 
